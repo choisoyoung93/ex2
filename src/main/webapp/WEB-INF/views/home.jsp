@@ -5,8 +5,8 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>Master Add</h1>
-<h1>Master Add2</h1>
+<h1>BugFix Add</h1>
+<h1>BugFix Add2</h1>
 <h1>
 	Hello world!  
 </h1>
